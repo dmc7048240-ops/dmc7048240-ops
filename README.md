@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Eu sou o Diego 👋
 
-<!--
-**dmc7048240-ops/dmc7048240-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Front-end Júnior focado em criar interfaces modernas e funcionais. Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript através de projetos práticos e cursos especializados.
 
-Here are some ideas to get you started:
+🌱 Atualmente aprendendo: JavaScript Avançado e novas bibliotecas de CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Objetivo: Construir aplicações web acessíveis e de alto desempenho.
+
+💬 Pode me perguntar sobre: Estilização web ou meus últimos desafios de código!
+
+## Vamos nos conectar
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2c5de8fe-0650-4d73-9db7-839324e67fa4" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/310ee172-8089-4000-b886-bf9a82cc77a9" />
+
