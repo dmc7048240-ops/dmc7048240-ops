@@ -50,15 +50,22 @@ Sou um programador front-end com experiência em desenvolvimento web moderno. Te
 ---
 
 ## 🔗 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-mamani-programador)
-
+<a href="https://www.linkedin.com/in/diego-mamani-programador">
+  <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000">
+</a>
+<a href="https://www.facebook.com/el.lobo.316606">
+  <img src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000">
+</a>
+<a href="https://www.instagram.com/diegoaprendeycomparteoficial?igsh=MTkzd2lwcGl2OHA0eQ==">
+  <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000">
+</a>
 ---
 
 ## 💡 Frase Inspiradora
 
-> "A tecnologia é melhor quando une as pessoas." - Steve Jobs
-
+> "A tecnologia é melhor quando une as pessoas." - Steve Jobs <br>
+> "Dois são melhores que um... juntos somos mais fortes e vamos mais longe." - Eclesiastes 4:9
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia." - Robert Collier
 ---
 
 <div align="center">
