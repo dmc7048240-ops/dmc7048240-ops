@@ -1,8 +1,8 @@
 # 👋 Olá, sou Diego Mamani!  
 
-## 🚀 Programador Back-End Apaixonado por Tecnologia
+## 🚀 Programador Front-End Apaixonado por Tecnologia
 
-Sou um desenvolvedor Back-end criativo e dedicado, apaixonado pela área de tecnologia. Adoro criar interfaces incríveis e soluções inovadoras que impressionam!
+Sou um desenvolvedor Front-end criativo e dedicado, apaixonado pela área de tecnologia. Adoro criar interfaces incríveis e soluções inovadoras que impressionam!
 
 ---
 
