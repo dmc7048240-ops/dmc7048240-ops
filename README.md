@@ -1,8 +1,8 @@
 # 👋 Olá, sou Diego Mamani!  
 
-## 🚀 Programador Front-End Apaixonado por Tecnologia
+## 🚀 Desenvolvedor Full-Stack
 
-Sou um desenvolvedor Front-end criativo e dedicado, apaixonado pela área de tecnologia. Adoro criar interfaces incríveis e soluções inovadoras que impressionam!
+Sou um desenvolvedor Full-Stack apaixonado por criar aplicações modernas, escaláveis e de alta performance. Tenho experiência no desenvolvimento de interfaces responsivas com React.js e na construção de APIs robustas utilizando Node.js, sempre seguindo boas de desenvolvimento e código limpo. 
 
 ---
 
@@ -23,9 +23,11 @@ Sou um programador front-end com experiência em desenvolvimento web moderno. Te
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000) 
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 ---
 
